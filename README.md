@@ -15,4 +15,6 @@ Without having to step out of the classroom or their home, students are exposed 
 - Figma
 - Unity
 ## Created 3D Models using EchoAR
+[3D MODEL] https://go.echoar.xyz/jraq
 ## Created Prototype using Figma
+[PROTOTYPE] https://www.figma.com/proto/0YKkbXUcwP1flxmwNmaHzi/Foxlearn?node-id=13%3A58&scaling=scale-down
