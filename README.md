@@ -11,7 +11,7 @@ The idea evaluates the role and the possibility of virtual practical teaching us
 Without having to step out of the classroom or their home, students are exposed to completely new and active learning environments. Teachers could teach subjects such as Physics, Chemistry, and Biology through virtual labs that not just keeps students engaged but also allows them to practice before they can test the experiments in real laboratories.
 
 ## Tech Stack
-- EchoAR
+- echoAR
 - Figma
 - Unity
 ## Created 3D Models using EchoAR
